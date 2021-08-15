@@ -35,7 +35,6 @@ const fromHEXToHSB = (hex) => {
     for (let i = 0; i <= 100; i = i + 4) {
         colorsInHSL.push('hsl(' + h + ', ' + s + '%, ' + i + '%)');
     }
-    console.log(colorsInHSL);
     return colorsInHSL;
 }
 

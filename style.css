@@ -70,4 +70,9 @@ h1{
     .container{
         width: 95vw;
     }
+    h1{
+        font-size: 18px;
+        width: 80vw;
+    }
+
 }
